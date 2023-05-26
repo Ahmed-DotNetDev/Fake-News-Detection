@@ -1,6 +1,6 @@
 # Fake-News-Detection
 <p>
-   The Fake News Detection project aims to develop an automated system to identify and classify
+   <strong>The Fake News Detection project aims to</strong> develop an automated system to identify and classify
     
    fake news articles from genuine ones. It utilizes NLP and machine learning algorithms to
     
